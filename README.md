@@ -6,5 +6,5 @@ Basic Portfoliyo Page
 Basic landing Page
 # Project 03
 Google Landing Page 
-download all file and open terminal and paste this command
+download all file and open terminal and paste this command : /n
 npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
